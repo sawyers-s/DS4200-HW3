@@ -4,7 +4,8 @@
 This repository contains all files for Homework 3 of DS4200. Files for Part 1 of the homework are:
 * "index.html"
 * "information.html"
-* "style.css".
+* "style.css"
+* "Homework 3 Part 1.docx"
 
 Files for Part 2 of the homework are: 
 * "iris.csv"
