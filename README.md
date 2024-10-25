@@ -11,6 +11,6 @@ Files for Part 2 of the homework are:
 * "templete.html"
 * "templete.js"
 
-They can also be distinguished by the upload description ("Uploading website files" apply to Part 1 files, "Uploading D3 files" apply to Part 2 files).
+They can also be distinguished by the upload description ("Uploading website files" and "Uploading website description file" apply to Part 1 files, "Uploading D3 files" apply to Part 2 files).
 
 #### Thanks!
